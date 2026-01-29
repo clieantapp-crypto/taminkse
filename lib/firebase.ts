@@ -11,7 +11,7 @@ const firebaseConfig = {
   storageBucket: "taminn-jh.firebasestorage.app",
   messagingSenderId: "910897215892",
   appId: "1:910897215892:web:d4788788e3a66d94abb781",
-  measurementId: "G-MKE0PZWQEX",,
+  measurementId: "G-MKE0PZWQEX",
 };
 
 function initializeFirebase() {
