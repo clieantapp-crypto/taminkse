@@ -4,14 +4,14 @@ import { getDatabase } from "firebase/database";
 import { doc, getFirestore, setDoc } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBg4Skcl89HheHNkqC80Cm1bd429j7lUJw",
-  authDomain: "whaaa-6f64d.firebaseapp.com",
-  databaseURL: "https://whaaa-6f64d-default-rtdb.firebaseio.com",
-  projectId: "whaaa-6f64d",
-  storageBucket: "whaaa-6f64d.firebasestorage.app",
-  messagingSenderId: "828749821160",
-  appId: "1:828749821160:web:3b00b5446c8cd1722bc55d",
-  measurementId: "G-M45W939MHR",
+    apiKey: "AIzaSyBJwAk57JgSfu-nXlctc9t5M2b5A0yOH3o",
+  authDomain: "taminn-jh.firebaseapp.com",
+  databaseURL: "https://taminn-jh-default-rtdb.firebaseio.com",
+  projectId: "taminn-jh",
+  storageBucket: "taminn-jh.firebasestorage.app",
+  messagingSenderId: "910897215892",
+  appId: "1:910897215892:web:d4788788e3a66d94abb781",
+  measurementId: "G-MKE0PZWQEX",,
 };
 
 function initializeFirebase() {
